@@ -53,8 +53,6 @@ body{
 	background-color:rgba(49, 239, 226, 0.8);
 	
 
-	border-top-right-radius: 70%;
-	border-bottom-left-radius: 50%;
 }
 
 
@@ -68,8 +66,6 @@ body{
 	background-color:rgba(49, 239, 226, 0.8);
 	
 
-	border-top-left-radius: 70%;
-	border-bottom-right-radius: 70%;
 }
 
 .teamlis{
@@ -158,6 +154,11 @@ body{
 .serviceimgs:hover{
 	transform: scale(1.1);
 }
+
+.amscs{
+	text-decoration: none;
+}
+
 
 
 /*end services section*/
